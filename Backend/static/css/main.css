@@ -670,7 +670,7 @@ h6 {
 #preloader div {
   width: 13px;
   height: 13px;
-  background-color: var(--accent-color);
+  background: var(--digiGlow-gradient);
   border-radius: 50%;
   animation-timing-function: cubic-bezier(0, 1, 1, 0);
   position: absolute;
@@ -2069,6 +2069,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
+/* .starter-section { */
   /* Add your styles here */
-}
+/* } */
